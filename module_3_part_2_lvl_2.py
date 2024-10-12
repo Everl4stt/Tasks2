@@ -1,4 +1,4 @@
-print ("Модуль 3, Часть 2, Уровень 2")
+print("Модуль 3, Часть 2, Уровень 2")
 from random import randint
 n = 5
 max = 0

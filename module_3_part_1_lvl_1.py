@@ -1,4 +1,4 @@
-print ("Модуль 3, Часть 1, Уровень 1")
+print("Модуль 3, Часть 1, Уровень 1")
 while True:
     x = float(input("Введите сумму вклада с клавиатуры\n"))
     if (x <= 0) :
@@ -18,7 +18,7 @@ count = 0
 while target < y :
     target = float(int(target + target *  (p / 100) ))
     count = count + 1
-print ("Сумма вклада станет не меньше суммы цели через ",count, " лет." )
+print("Сумма вклада станет не меньше суммы цели через ",count, " лет." )
 
 
 

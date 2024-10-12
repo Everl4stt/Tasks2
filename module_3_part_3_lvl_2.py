@@ -5,7 +5,7 @@ def words_count(s):
         if len(words) < 5 and words != " " and words != ". " and words != ", " and words != "-":
             result = result + words + " "
     return result
-print ("Модуль 3, Часть 3, Уровень 2")
+print("Модуль 3, Часть 3, Уровень 2")
 s = ('''Было просто пасмурно, дуло с севера
 А к обеду насчитал сто градаций серого.
 Так всегда первого ноль девятого
